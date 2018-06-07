@@ -1,0 +1,6 @@
+framework module Pods_CryptoCurrency_TrackerUITests {
+  umbrella header "Pods-CryptoCurrency TrackerUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

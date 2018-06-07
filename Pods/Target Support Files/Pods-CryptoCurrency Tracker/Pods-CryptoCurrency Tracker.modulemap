@@ -1,0 +1,6 @@
+framework module Pods_CryptoCurrency_Tracker {
+  umbrella header "Pods-CryptoCurrency Tracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
